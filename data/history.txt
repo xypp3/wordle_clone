@@ -1,0 +1,13 @@
+Number of games played: 4
+Number of games won: 3
+Percentage of games that were wins: 75.00%
+Length of the current winning streak: 0
+Longest winning streak: 3
+Histogram of guesses (size of histogram bars are relative)
+1 try, guessed 0 times: [30;102m[0m
+2 try, guessed 0 times: [30;102m[0m
+3 try, guessed 0 times: [30;102m[0m
+4 try, guessed 0 times: [30;102m[0m
+5 try, guessed 3 times: [30;102m      [0m
+6 try, guessed 0 times: [30;102m[0m
+
